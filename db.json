@@ -1,4 +1,5 @@
-[
+{
+  "orders": [
   {
     "order_id": "ORD-10234",
     "user_name": "Omkar",
@@ -58,29 +59,6 @@
     "eta": "2026-08-06",
     "amount": 799,
     "currency": "INR"
-  },
-  {
-    "order_id": "ORD-10235",
-    "user_name": "Priya Sharma",
-    "user_phone": "+91-9876543210",
-    "product_name": "Smart Fitness Watch",
-    "order_status": "delivered",
-    "order_date": "2026-07-15",
-    "delivery_date": "2026-07-19",
-    "eta": null,
-    "amount": 4999,
-    "currency": "INR"
-  },
-  {
-    "order_id": "ORD-10236",
-    "user_name": "Rohan Mehta",
-    "user_phone": "+91-9123456780",
-    "product_name": "Bluetooth Speaker",
-    "order_status": "cancelled",
-    "order_date": "2026-07-20",
-    "delivery_date": null,
-    "eta": null,
-    "amount": 1799,
-    "currency": "INR"
   }
 ]
+}
