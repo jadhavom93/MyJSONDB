@@ -1,0 +1,86 @@
+[
+  {
+    "order_id": "ORD-10234",
+    "user_name": "Omkar",
+    "user_phone": "+91-9988776655",
+    "product_name": "Wireless Earbuds Pro",
+    "order_status": "delivered",
+    "order_date": "2026-06-10",
+    "delivery_date": "2026-06-14",
+    "eta": null,
+    "amount": 2499,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10241",
+    "user_name": "Omkar",
+    "user_phone": "+91-9988776655",
+    "product_name": "Smart Fitness Watch",
+    "order_status": "delivered",
+    "order_date": "2026-06-28",
+    "delivery_date": "2026-07-03",
+    "eta": null,
+    "amount": 4999,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10255",
+    "user_name": "Omkar",
+    "user_phone": "+91-9988776655",
+    "product_name": "USB-C Fast Charger 65W",
+    "order_status": "delivered",
+    "order_date": "2026-07-12",
+    "delivery_date": "2026-07-16",
+    "eta": null,
+    "amount": 999,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10267",
+    "user_name": "Omkar",
+    "user_phone": "+91-9988776655",
+    "product_name": "Bluetooth Speaker",
+    "order_status": "shipped",
+    "order_date": "2026-07-27",
+    "delivery_date": null,
+    "eta": "2026-08-03",
+    "amount": 1799,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10271",
+    "user_name": "Omkar",
+    "user_phone": "+91-9988776655",
+    "product_name": "Laptop Sleeve 14-inch",
+    "order_status": "processing",
+    "order_date": "2026-07-30",
+    "delivery_date": null,
+    "eta": "2026-08-06",
+    "amount": 799,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10235",
+    "user_name": "Priya Sharma",
+    "user_phone": "+91-9876543210",
+    "product_name": "Smart Fitness Watch",
+    "order_status": "delivered",
+    "order_date": "2026-07-15",
+    "delivery_date": "2026-07-19",
+    "eta": null,
+    "amount": 4999,
+    "currency": "INR"
+  },
+  {
+    "order_id": "ORD-10236",
+    "user_name": "Rohan Mehta",
+    "user_phone": "+91-9123456780",
+    "product_name": "Bluetooth Speaker",
+    "order_status": "cancelled",
+    "order_date": "2026-07-20",
+    "delivery_date": null,
+    "eta": null,
+    "amount": 1799,
+    "currency": "INR"
+  }
+]
